@@ -1,0 +1,1 @@
+# frigate-last-frame-addon
