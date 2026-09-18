@@ -1,5 +1,5 @@
 name: Frigate Last Frame Test
-version: last-frame-rpi
+version: last-frame-0.18-rpi
 panel_icon: "mdi:cctv"
 panel_title: Frigate Test
 slug: frigate-last-frame
