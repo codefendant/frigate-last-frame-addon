@@ -10,4 +10,4 @@ Add this repository to the Home Assistant App Store repositories:
 
 Then install **Frigate Last Frame Test**.
 
-The test add-on uses the public image `ghcr.io/codefendant/frigate:last-frame-rpi`. It has its own add-on configuration directory and should not be run at the same time as the official Frigate add-on.
+The test add-on uses the public image `ghcr.io/codefendant/frigate:last-frame-0.18-rpi`. It has its own add-on configuration directory and should not be run at the same time as the official Frigate add-on.
